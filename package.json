@@ -1,0 +1,13 @@
+{
+  "name": "poker-game-state",
+  "version": "1.0.0",
+  "description": "Poker game state tracker — accumulates events into a coherent game model",
+  "main": "index.js",
+  "keywords": ["poker", "game-state", "texas-holdem"],
+  "author": "jerroldneal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerroldneal/poker-game-state.git"
+  }
+}
