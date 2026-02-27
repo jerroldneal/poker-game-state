@@ -1,5 +1,7 @@
 # poker-game-state
 
+> **Repo**: [`jerroldneal/poker-game-state`](https://github.com/jerroldneal/poker-game-state) · **Submodule of**: [`cnr-ws-server`](https://github.com/jerroldneal/cnr-ws-server) at `submodules/poker-game-state/`
+
 Poker game state tracker that accumulates events into a coherent game model. Protocol-agnostic — accepts generic `{ type, data }` events with a convenience adapter for protobuf-formatted events.
 
 ## Usage
